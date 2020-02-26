@@ -4,3 +4,4 @@ pasta
 khituri
 Alu vaji
 Alu vorta
+chicken

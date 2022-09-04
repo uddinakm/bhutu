@@ -6,7 +6,7 @@ def listExample():
   print("Reversed Numbers", list1)
   
   list2=range(1,10)
-  for i in listw:
+  for i in list2:
     print(i)
 
   

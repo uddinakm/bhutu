@@ -7,7 +7,7 @@ def listExample():
   
   list2=range(1,10)
   for i in list2:
-    print(i)
+    print(i, end=" ")
 
   
 listExample()

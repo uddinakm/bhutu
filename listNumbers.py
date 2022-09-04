@@ -4,6 +4,10 @@ def listExample():
   print("Original list", list1)
   list1.reverse()
   print("Reversed Numbers", list1)
+  
+  list2=range(1,10)
+  for i in listw:
+    print(i)
 
   
 listExample()
